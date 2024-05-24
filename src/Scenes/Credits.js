@@ -49,7 +49,7 @@ class Credits extends Phaser.Scene {
             fontSize: '64px',
             backgroundColor: '#000000' 
         })
-        my.text.myCredits = this.add.text(50, 400, `Moon and shaded tiles\nby Ashton Gallistel`, { 
+        my.text.myCredits = this.add.text(50, 400, `Moon and letter sprites\nby Ashton Gallistel`, { 
             fontFamily: "rocketSquare",
             fontSize: '64px',
             backgroundColor: '#000000' 
